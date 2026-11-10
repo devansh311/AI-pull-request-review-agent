@@ -335,7 +335,7 @@ python -m pytest -q
 
 ## 📁 Project Repository
 
-**GitHub:** [gaditya80202-netizen/Ai-pull-request-review-agent](https://github.com/gaditya80202-netizen/Ai-pull-request-review-agent)
+**GitHub:** [devansh311/Ai-pull-request-review-agent](https://github.com/devansh311)
 
 ---
 
